@@ -1,0 +1,7 @@
+{
+  "name": "petstore-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

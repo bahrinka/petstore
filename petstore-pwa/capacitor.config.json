@@ -1,0 +1,18 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "petstore-pwa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "windowsAndroidStudioPath": "D:\\jetbrains\\apps\\AndroidStudio\\ch-0\\201.6953283\\bin\\studio64.exe",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "http://192.168.1.113:8101",
+    "cleartext": true
+  }
+}
